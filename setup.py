@@ -17,5 +17,5 @@ setuptools.setup(
     },
     license='MIT',
     packages=['custom_pip'],
-    install_requires=['sqlite3'],
+    install_requires=['sqlite3', 'logging']
 )
